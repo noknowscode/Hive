@@ -1,3 +1,5 @@
+> **Moved to uno-lab.** This project now lives in the `Hive/` folder of [noknowscode/uno-lab](https://github.com/noknowscode/uno-lab/tree/main/Hive) (private). This repository is archived and kept for its history.
+
 # Hive — Family Calendar
 
 A modern, cross-platform family calendar and task management app built with .NET 10 and Uno Platform. Inspired by Skylight Calendar, Hive helps families stay organized with shared calendars, chore tracking, a star-based reward system, and collaborative lists.
